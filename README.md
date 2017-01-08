@@ -9,6 +9,7 @@ easy to grasp example of Genetic algorithms. Feel free to download this code
 and play around and tweak it as you see fit. It is available to help users get
 the main concept behind genetic programs. For more information visit
 [Genetic Programming site](http://geneticprogramming.com/software/)
+or
 [Automating The Future](http://www.automatingthefuture.com)
 
 # Example
